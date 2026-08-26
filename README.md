@@ -261,9 +261,9 @@ Level Score Range Description
 
 👨‍💻 Author
 
-Emaf-png
+CLXV11
 
-· GitHub: @Emaf-png
+· GitHub: CLXV11
 
 📄 License
 
